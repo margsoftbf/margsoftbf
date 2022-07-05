@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @margsoftbf
 - 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently keep learning React/Typescript
 - 📫 Send me a pm if you wanna contact
 
 <!---
