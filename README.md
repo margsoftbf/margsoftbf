@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @margsoftbf
 - 👀 I’m interested in Software Developer
 - 🌱 I’m currently keep learning React/Typescript
-- 📫 Send me a pm if you wanna contact
 
 <!---
 margsoftbf/margsoftbf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
