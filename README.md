@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @margsoftbf
 - 👀 I’m currently looking for my first jobn as a Software Developer
 - 🌱 I’m currently keep learning React/Typescript
-- 👨‍💻 All of my projects are available at [www.garskimarcin.com](www.garskimarcin.com)
+- 👨‍💻 All of my projects are available at  <a href="www.garskimarcin.com" target="_blank" rel="noreferrer">[www.garskimarcin.com](www.garskimarcin.com)
 - 📫 How to reach me **marcin.garski@gmail.com**
 
 
