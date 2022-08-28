@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @margsoftbf
+- 👋 Hi, I’m @margsoftbf, Hard-working and detail-oriented professional with a solid background in client services, combined with continuous self-study in web development. Operates as a dedicated service provider, going above and beyond to fulfill dynamic customer orders. Consistently evolves technical skills and experiences to further elevate value to the organization.
 - 👀 I’m currently looking for my first job as a Software Developer
 - 🌱 I’m currently keep learning React/Typescript
 - 👨‍💻 All of my projects are available at  <a href="www.garskimarcin.com" target="_blank" rel="noreferrer"> www.garskimarcin.com </a>
