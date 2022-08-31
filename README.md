@@ -61,3 +61,16 @@
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;"></a>
 </p>
+
+
+<br />
+<h3 align="left">:mailbox: Contact</h3>
+<hr>
+<p align="left">
+<a href="https://www.garskimarcin.com/files/Marcin%20Garski_Resume.docx" rel="nofollow"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume" data-canonical-src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.garskimarcin.com/" rel="nofollow"><img src="https://img.shields.io/badge/Portfolio-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="resume" data-canonical-src="https://img.shields.io/badge/Portfolio-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/marcin-garski-731335155/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="resume" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://github.com/margsoftbf" rel="nofollow"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="resume" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:https://github.com/margsoftbf"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;"></a>
+
+</p>
