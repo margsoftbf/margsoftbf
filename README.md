@@ -28,7 +28,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white"><img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-<h4>Backend Development</h4>
+<h4>Backend Development - Basic knowledge</h4>
 <p align="left"> 
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;"></a>
@@ -49,16 +49,6 @@
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white"><img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="max-width: 100%;"></a>
-</p>
-
-<br />
-<h3 align="left">:desktop_computer: Workspace</h3>
-<hr>
-<p align="left"> 
-<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Intel%20Core_i9_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/Intel%20Core_i9_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/NVIDIA-GTX2080%20SUPER%20-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX2080%20SUPER%20-76B900?style=for-the-badge&logo=nvidia&logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 
