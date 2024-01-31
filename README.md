@@ -46,15 +46,6 @@
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"><img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" style="max-width: 100%;"></a>
 </p>
 
-<br />
-<h3 align="left">:desktop_computer: Workspace</h3>
-<hr>
-<p align="left"> 
-<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/AMD%20Radeon_7900_XTX-ED1C24?style=for-the-badge&logo=amd&logoColor=white"><img src="https://img.shields.io/badge/AMD%20Radeon_7900_XTX-ED1C24?style=for-the-badge&logo=amd&logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;"></a>
-</p>
 
 <br />
 <h3 align="left">:mailbox: Contact</h3>
