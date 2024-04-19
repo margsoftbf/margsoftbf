@@ -51,7 +51,7 @@
 <h3 align="left">:mailbox: Contact</h3>
 <hr>
 <p align="left">
-<a href="/https://www.marcingarski.com/assets/Resume/Marcin-Garski-CV.pdf" rel="nofollow"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="cv" data-canonical-src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.marcingarski.com/assets/Resume/Marcin-Garski-CV.pdf" rel="nofollow"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="cv" data-canonical-src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.marcingarski.com/" rel="nofollow"><img src="https://img.shields.io/badge/Portfolio-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="resume" data-canonical-src="https://img.shields.io/badge/Portfolio-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/marcin-garski-731335155/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="resume" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/margsoftbf" rel="nofollow"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="resume" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
