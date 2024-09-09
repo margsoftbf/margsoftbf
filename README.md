@@ -24,8 +24,11 @@
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" style="max-width: 100%;"></a>
 </p>
 
-<h4>Basic Knowledge of Backend Development</h4>
+<h4>Backend Development</h4>
 <p align="left"> 
+  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" style="max-width: 100%;"></a>
