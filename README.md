@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m @margsoftbf, Hard-working and detail-oriented professional with a solid background in client services, combined with continuous self-study in web development. Operates as a dedicated service provider, going above and beyond to fulfill dynamic customer orders. Consistently evolves technical skills and experiences to further elevate value to the organization.
-- 👀 I’m currently looking for my first job as a Software Developer
-- 🌱 I’m currently keep learning React/Typescript/Next.js
+- 👋 Hi, I’m @margsoftbf, a hard-working and detail-oriented professional with a strong foundation in client services, now working as a Junior Fullstack Developer. Continuously honing technical skills in web development to further elevate value to the organization.
+- 👀 I’m currently working as a Junior Fullstack Developer.
+- 🌱 I’m currently keep learning React/Typescript/Next.js and Backend development
 - 👨‍💻 All of my projects are available at  <a href="https://www.marcingarski.com/" target="_blank" rel="noreferrer"> https://www.marcingarski.com/ </a>
 - 📫 How to reach me **marcin.garski@gmail.com**
 
