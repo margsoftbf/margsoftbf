@@ -1,7 +1,8 @@
 
-- 👋 Hi, I'm @margsoftbf, a hard-working and detail-oriented Junior Fullstack Developer with experience in React ecosystem and Nest.js backend development. Focused on building responsive, efficient applications with clean code practices.
-- 🌱 I'm currently expanding my skills in TypeScript, Next.js, NestJS, TypeORM, and AWS cloud services
-- 👀 I’m currently working as a Junior Fullstack Developer.
+- 👋 Hi, I'm @margsoftbf, a **Full-Stack Developer** specializing in modern web applications with **React ecosystem** and **NestJS backend development**. Currently building scalable applications with **AI integration** and **cloud infrastructure**.
+- 🌱 I'm currently building **AI-powered applications** and expanding skills in **Google Gemini AI**, **advanced testing**, and **AWS cloud services**
+- 👀 I'm currently working as a **Full-Stack Developer** at **MIG Construction**
+- 🚀 Recent achievement: Built a **Real Estate platform** with AI integration and comprehensive testing suite
 - 👨‍💻 All of my projects are available at  <a href="https://www.marcingarski.com/" target="_blank" rel="noreferrer"> https://www.marcingarski.com/ </a>
 - 📫 How to reach me **marcin.garski@gmail.com**
 
@@ -21,6 +22,9 @@
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"><img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"><img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"><img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"><img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 <h4>Backend Development</h4>
@@ -35,6 +39,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white"><img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" style="max-width: 100%;"></a>
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="max-width: 100%;"></a> -->
 </p>
 
