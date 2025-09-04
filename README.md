@@ -32,6 +32,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white"><img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/RESTful%20API-009688?style=for-the-badge&logo=api&logoColor=white"><img src="https://img.shields.io/badge/RESTful%20API-009688?style=for-the-badge&logo=api&logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/AI%2FLLM%20Integration-FF6B35?style=for-the-badge&logo=openai&logoColor=white"><img src="https://img.shields.io/badge/AI%2FLLM%20Integration-FF6B35?style=for-the-badge&logo=openai&logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" style="max-width: 100%;"></a>
 </p>
 
